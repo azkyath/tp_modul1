@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyCase1</string>
+    <string name="toast_message1">Jangan disini makan malamnya, uang osas tidak cukup</string>
+    <string name="toast_message2">Osas makan disini saja</string>
+    <string name="activity2">Study Case 1</string>
+    <string name="activity3">Study Case 1</string>
+</resources>
